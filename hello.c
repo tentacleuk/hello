@@ -10,6 +10,6 @@ int main(int argc, char **argv)
 	int times = atoi(argv[1]);
 	int i = 0;
 	for (; i < times; i++)
-		printf("Hello world - you complete bastard\n");
+		printf("Hello world - you nice fluffy place \n");
 	return 0;
 }
